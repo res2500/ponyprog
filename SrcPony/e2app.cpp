@@ -25,22 +25,34 @@
 //=========================================================================//
 
 #include "e2profil.h"
+#include <signal.h>
 #include "e2awinfo.h"
+#include <signal.h>
 #include "e2app.h"        // Header file
+#include <signal.h>
 
 #include <QCoreApplication>
+#include <signal.h>
 #include <QString>
+#include <signal.h>
 #include <QtCore>
+#include <signal.h>
 #include <QDebug>
+#include <signal.h>
 
 #ifdef Q_OS_LINUX
 #include <sys/time.h>
+#include <signal.h>
 #include <unistd.h>
+#include <signal.h>
+#include <signal.h>
 #include <signal.h>
 #endif
 
 #include "microbus.h"
+#include <signal.h>
 #include "interfconv.h"
+#include <signal.h>
 
 //const int idAskToSave = 100; // Dummy Command
 
